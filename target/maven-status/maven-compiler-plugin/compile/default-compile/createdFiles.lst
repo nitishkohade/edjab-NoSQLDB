@@ -1,0 +1,12 @@
+com\edjab\dbclient\table\schoolprofile\SchoolProfileClient.class
+com\edjab\dbclient\table\userprofile\UserToReviewClient.class
+com\edjab\dbclient\table\image\ImageClient.class
+com\edjab\dbclient\table\userprofile\UserProfileClient.class
+com\edjab\dbclient\table\userprofile\UserToVideoClient.class
+com\edjab\dbclient\table\follow\FollowClient.class
+com\edjab\dbclient\table\attend\AttendClient.class
+com\edjab\dbclient\table\userprofile\UserToImageClient.class
+com\edjab\dbclient\table\helper\TableHelper.class
+com\edjab\dbclient\table\like\LikeClient.class
+com\edjab\dbclient\table\review\ReviewClient.class
+com\edjab\dbclient\table\video\VideoClient.class
